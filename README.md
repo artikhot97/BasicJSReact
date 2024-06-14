@@ -1,4 +1,4 @@
-# BasicJSReact
+# BasicJSReact - Investor App
 This is basic react app which helps us to understand the basics of React components and how we render the details dynamically
 
 For Local:
